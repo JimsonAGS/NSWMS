@@ -62,10 +62,4 @@ AdafruitIO_WiFi io(IO_USERNAME, IO_KEY, WIFI_SSID, WIFI_PASS);
 
 /**************************** ETHERNET ************************************/
 
-// the AdafruitIO_Ethernet client will work with the following boards:
-//   - Ethernet FeatherWing -> https://www.adafruit.com/products/3201
 
-// uncomment the following two lines for ethernet,
-// and comment out the AdafruitIO_WiFi client in the WIFI section
-// #include "AdafruitIO_Ethernet.h"
-// AdafruitIO_Ethernet io(IO_USERNAME, IO_KEY);
