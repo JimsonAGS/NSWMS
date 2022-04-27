@@ -18,6 +18,7 @@ Diarrhoeal diseases is occuring due to the contaminated water.
 sample for  dashboard i have done:
 
 https://io.adafruit.com/AGS_Jimson/dashboards/nswms?kiosk=true
+
 above link for dashboard you veiw both mobile and laptops.
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/99163376/165548692-51f49230-2f06-421f-9d04-5b41cf62ac95.png)
