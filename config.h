@@ -3,7 +3,7 @@
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
 #define IO_USERNAME "AGS_Jimson"
-#define IO_KEY "aio_xTvK898wDv4sj75orbLcUCP6NLWS"
+#define IO_KEY ""
 
 /******************************* WIFI **************************************/
 
@@ -19,8 +19,8 @@
 //   - Adafruit AirLift Breakout -> https://www.adafruit.com/product/4201
 //   - Adafruit AirLift Shield -> https://www.adafruit.com/product/4285
 //   - Adafruit AirLift FeatherWing -> https://www.adafruit.com/product/4264
-#define WIFI_SSID "realme X2 Pro"
-#define WIFI_PASS "jimson2828"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 
 // uncomment the following line if you are using airlift
 // #define USE_AIRLIFT
