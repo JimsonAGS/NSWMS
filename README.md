@@ -3,6 +3,7 @@
 
                     “Neerindri amayathu ulagu”
 *Nellai smart water monitoring system is for monitoring  quality of water in river and much more.
+
 *using this system  conserving the water resources is possible by details from dash board
 
 the main reason:
